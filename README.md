@@ -4,14 +4,14 @@ Interact with the Hyra APIs by using LuaU (Roblox Lua).
 
 If you're looking to use our raw API with no wrapper, please check out our [Developer Documentation](https://docs.hyra.io).
 
-### Installation
+## Installation
 Installation instructions are coming soon
 
-### Documentation
+## Documentation
 Full documentation on the Hyra Lua Wrapper is coming soon.
 
-### Setup & configuration
+## Setup & configuration
 Full documentation on the Hyra Lua Wrapper is coming soon.
 
-### License
+## License
 The Hyra Lua Wrapper is release under the [MIT License](LICENSE). 
